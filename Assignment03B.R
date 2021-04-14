@@ -1,3 +1,4 @@
+#Assignment03B.R Peter Firestone
 results <- read.csv("PRESIDENT_precinct_primary.csv")
 trump <- 0
 biden <- 0
